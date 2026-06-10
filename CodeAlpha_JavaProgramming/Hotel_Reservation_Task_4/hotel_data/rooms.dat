@@ -1,0 +1,32 @@
+# rooms.dat — Hotel Room Data (plain text, pipe-separated)
+# roomNumber|category|floor|available
+101|STANDARD|1|true
+102|STANDARD|1|true
+103|STANDARD|1|true
+104|STANDARD|1|true
+105|STANDARD|1|true
+106|STANDARD|1|true
+107|STANDARD|1|true
+108|STANDARD|1|true
+109|STANDARD|1|true
+110|STANDARD|1|true
+201|DELUXE|2|true
+202|DELUXE|2|true
+203|DELUXE|2|true
+204|DELUXE|2|true
+205|DELUXE|2|true
+206|DELUXE|2|true
+207|DELUXE|2|true
+208|DELUXE|2|true
+209|DELUXE|2|true
+210|DELUXE|2|true
+301|SUITE|3|true
+302|SUITE|3|true
+303|SUITE|3|true
+304|SUITE|3|true
+305|SUITE|3|true
+306|SUITE|3|true
+307|SUITE|3|true
+308|SUITE|3|true
+309|SUITE|3|true
+310|SUITE|3|true

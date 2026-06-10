@@ -1,0 +1,11 @@
+userId=M
+name=m
+email=m
+cash=492851.05
+startingCapital=500000.0
+realisedPL=355.7199999999975
+[holdings]
+INFY,4,1871.4900000000002
+[transactions]
+BUY,INFY,10,1871.49,18714.9,18.71,18733.61,04-Jun-2026 23:01:12,Market BUY
+SELL,INFY,6,1932.71,11596.26,11.6,11584.66,04-Jun-2026 23:02:59,Market SELL
