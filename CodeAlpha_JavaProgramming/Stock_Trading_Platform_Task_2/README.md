@@ -29,7 +29,7 @@ CodeAlpha_StockTradingPlatform/
 #.java files contain the source code written by you.
 # Java cannot run .java files directly.
 # So Java first converts source code into bytecode.
-# That bytecode is stored in .class files.
+# That bytecode is stored in .class files,which can be executed by the Java Virtual Machine.
 javac -d bin src/model/*.java src/service/*.java src/ui/*.java src/util/*.java src/StockTradingPlatform.java
 
 # Run 
